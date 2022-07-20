@@ -1,0 +1,26 @@
+.dot {
+    height: 200px;
+    width: 200px;
+    background-color: #B2D199;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    align-content: center;
+  }
+
+  .icon{
+    font-size: 100px;
+    width:100%;
+    color: black;
+  }
+
+  .subtitle{
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    
+  }
